@@ -6,7 +6,8 @@
 - 📫 How to reach me **aerenyurtaslan@gmail.com**
 
 
-- 📄 Know about my experiences [Eren_Yurtaslan_CV.pdf](https://github.com/user-attachments/files/16339482/Eren_Yurtaslan_CV.pdf)
+
+- 📄 Know about my experiences [A.Eren_Yurtaslan_CV.pdf](https://github.com/user-attachments/files/16645359/A.Eren_Yurtaslan_CV.pdf)
 
 
 - ⚡ Fun fact **I am rock/metal vocalist.**
