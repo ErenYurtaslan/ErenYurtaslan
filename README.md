@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Eren.</h1>
-<h3 align="center">A passionate Asp.Net/Mobile(Flutter, Kotlin coming soon) developer candidate. from Turkey.</h3>
+<h3 align="center">A passionate Asp.Net/Mobile(Flutter, Kotlin coming soon) developer candidate. From Turkey.</h3>
 
 - 🌱 I’m currently learning **ASP.NET Core 7.0/8.0, MongoDB(soon), C, C++, Data Structures in Python(soon), Flutter, MSSQL, Kotlin(soon).**
 
