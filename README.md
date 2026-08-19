@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Eren.</h1>
-<h3 align="center">A passionate Asp.Net/Mobile(Flutter, Kotlin coming soon) developer candidate. From Turkey.</h3>
+<h3 align="center">A passionate Asp.Net/Flutter developer and prompt engineer from Turkey. </h3>
 
-- 🌱 I’m currently learning **ASP.NET Core 7.0/8.0, MongoDB(soon), C, C++, Data Structures in Python(soon), Flutter, MSSQL, Kotlin(soon).**
+- 🌱 I’m currently learning **ASP.NET Core 7.0/8.0, MongoDB, C, C++, Data Structures in C++ and Python, Flutter, MSSQL.**
 
 - 📫 How to reach me **aerenyurtaslan@gmail.com**
 
@@ -10,7 +10,7 @@
 - 📄 Know about my experiences [A.Eren_Yurtaslan_CV.pdf](https://github.com/user-attachments/files/16645359/A.Eren_Yurtaslan_CV.pdf)
 
 
-- ⚡ Fun fact **I am rock/metal vocalist.**
+- ⚡ Fun fact **I am rock/metal and multi-vocalist.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
